@@ -1,0 +1,7 @@
+{
+  "name": "yarn-milestone",
+  "packageManager": "yarn@3.2.0",
+  "devDependencies": {
+    "eslint": "^8.12.0"
+  }
+}
